@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3267AAE8-C02E-42EC-8E72-2629E4FD5E1D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProteinTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC40E1EE-5658-4666-82FC-0D3EC3108220</key>
+		<string>https://github.com/scotius/Pluralsight-ProteinTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProteinTracker/ProteinTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC40E1EE-5658-4666-82FC-0D3EC3108220</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scotius/Pluralsight-ProteinTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC40E1EE-5658-4666-82FC-0D3EC3108220</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC40E1EE-5658-4666-82FC-0D3EC3108220</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pluralsight-ProteinTracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
